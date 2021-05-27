@@ -11,7 +11,7 @@ git clone https://github.com/SunggoJung/local_planner_ros
 catkin build -DCMAKE_BUILD_TYPE=ReleaseWidtDebInfo 
 ```
 However, please be aware that the planner requires several dependencies; for example:
-- Mapping framework: [Cartographer_ROS](https://google-cartographer-ros.readthedocs.io/en/latest/)- 
+- Mapping framework: [Cartographer_ROS](https://google-cartographer-ros.readthedocs.io/en/latest/)
 - MAV simulation: Gazebo
 
 ### References
