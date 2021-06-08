@@ -1,3 +1,4 @@
+# Source code is going to released soon. (21-06-05)
 # local_planner_ROS
 Robust Collision-free Lightweight Local Planner for Unknown Area Exploration
 
